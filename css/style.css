@@ -2073,6 +2073,14 @@ ul.contact {
     #logo img {
         max-width: 100%;
         height: auto;
+        display: block;
+        text-decoration: none;
+        font-weight: 300;
+        line-height: 1em;
+        font-size: 7em;
+        color: #FFF;
+        letter-spacing: -0.05em;
+        margin: 0 0 0.125em 0;
     }
 
 /*********************************************************************************/
